@@ -1,7 +1,17 @@
-html, body {
+html,
+body {
   margin: 0;
   padding: 0;
+  background-color: blue;
 }
+
 canvas {
   display: block;
+}
+
+.mainContainer {
+  display: flex;
+  justify-content: center;
+  align-self: center;
+  align-content: center;
 }
