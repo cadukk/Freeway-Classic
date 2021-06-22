@@ -2,16 +2,16 @@ html,
 body {
   margin: 0;
   padding: 0;
-  background-color: blue;
-}
 
-canvas {
-  display: block;
-}
+  background-color: black;
 
-.mainContainer {
-  display: flex;
-  justify-content: center;
-  align-self: center;
-  align-content: center;
-}
+  canvas {
+    display: block;
+  }
+
+  .mainContainer {
+    display: flex;
+    justify-content: center;
+    align-self: center;
+    align-content: center;
+  }
